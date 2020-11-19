@@ -12,7 +12,7 @@ async def on_ready():
 
 @bot.command()
 async def EDT(ctx):
-	await ctx.send("https://images-ext-2.discordapp.net/external/nIyfbkGm4x9-YVJvkdAxMXxcZxpnAFMJe5DIYrQLDzw/https/i.ibb.co/B3B0x8Q/Capture.png")
+	await ctx.send("https://cdn.discordapp.com/attachments/750374328398249985/779049032802762834/unknown.png")
 
 @bot.command()
 async def ryan(ctx):
