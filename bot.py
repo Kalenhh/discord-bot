@@ -4,6 +4,8 @@
 import discord
 from discord.ext import commands
 
+bot.run("Nzc3OTcwMzg3NDEyNTgyNDEw.X7LLYg.98wsHtneuBWUgEtmr43MXqol5-U")
+
 bot = commands.Bot(command_prefix = "*", description = "lol")
 
 @bot.event
@@ -18,6 +20,6 @@ async def EDT(ctx):
 async def ryan(ctx):
 	await ctx.send("miskin boloss")
 
-bot.run("Nzc3OTcwMzg3NDEyNTgyNDEw.X7LLYg.98wsHtneuBWUgEtmr43MXqol5-U")
+
 
 
